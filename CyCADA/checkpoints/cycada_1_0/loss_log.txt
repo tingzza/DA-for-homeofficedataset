@@ -1,0 +1,658 @@
+================ Training Loss (Wed Apr 16 23:14:53 2025) ================
+2025-04-16 23:45:51.242083
+saving the model at the end of epoch 1, iters 3520
+End of epoch 1 / 100 	 Time Taken: 37 sec
+2025-04-16 23:46:28.586451
+(epoch: 2, iters: 2880, time: 0.002, data: 1.540) [ loss] D_A: 0.169 G_A: 1.515 cycle_A: 0.596 D_B: 0.154 G_B: 0.688 cycle_B: 0.581 sem_B: 3.022 sem_A: 4.171 C_B_task: 4.112 C_B_adv: 0.561 C_B: 4.672 D_ft_adv: 0.546 C_A: 0.381 
+------------------------------
+best acc_D_ft_source: 0.9972 best acc_D_ft_target: 0.7278 best acc_fake_A: 0.0274 best acc_fake_B: 0.0316 best acc_real_A: 0.8983 best acc_real_B: 0.0193 best acc_rec_A: 0.0401 best acc_rec_B: 0.0175 
+------------------------------
+saving the model at the end of epoch 2, iters 7040
+End of epoch 2 / 100 	 Time Taken: 37 sec
+2025-04-16 23:47:06.357340
+------------------------------
+best acc_D_ft_source: 0.9972 best acc_D_ft_target: 0.7278 best acc_fake_A: 0.0274 best acc_fake_B: 0.0322 best acc_real_A: 0.8983 best acc_real_B: 0.0203 best acc_rec_A: 0.0443 best acc_rec_B: 0.0175 
+------------------------------
+saving the model at the end of epoch 3, iters 10560
+End of epoch 3 / 100 	 Time Taken: 37 sec
+2025-04-16 23:47:43.597426
+(epoch: 4, iters: 2240, time: 0.002, data: 0.206) [ loss] D_A: 0.081 G_A: 0.878 cycle_A: 0.584 D_B: 0.095 G_B: 1.248 cycle_B: 0.565 sem_B: 2.222 sem_A: 4.249 C_B_task: 3.988 C_B_adv: 0.822 C_B: 4.810 D_ft_adv: 0.432 C_A: 0.594 
+------------------------------
+best acc_D_ft_source: 0.9972 best acc_D_ft_target: 0.8283 best acc_fake_A: 0.0274 best acc_fake_B: 0.0429 best acc_real_A: 0.8983 best acc_real_B: 0.0203 best acc_rec_A: 0.0443 best acc_rec_B: 0.0256 
+------------------------------
+saving the model at the end of epoch 4, iters 14080
+End of epoch 4 / 100 	 Time Taken: 39 sec
+2025-04-16 23:48:22.618246
+------------------------------
+best acc_D_ft_source: 0.9972 best acc_D_ft_target: 0.8283 best acc_fake_A: 0.0274 best acc_fake_B: 0.0505 best acc_real_A: 0.8983 best acc_real_B: 0.0203 best acc_rec_A: 0.0520 best acc_rec_B: 0.0304 
+------------------------------
+saving the model at the end of epoch 5, iters 17600
+End of epoch 5 / 100 	 Time Taken: 34 sec
+2025-04-16 23:48:57.583285
+(epoch: 6, iters: 1600, time: 0.002, data: 0.476) [ loss] D_A: 0.079 G_A: 0.895 cycle_A: 0.653 D_B: 0.048 G_B: 1.189 cycle_B: 0.507 sem_B: 1.398 sem_A: 4.103 C_B_task: 4.164 C_B_adv: 0.849 C_B: 5.013 D_ft_adv: 0.517 C_A: 0.292 
+------------------------------
+best acc_D_ft_source: 0.9972 best acc_D_ft_target: 0.8728 best acc_fake_A: 0.0274 best acc_fake_B: 0.0518 best acc_real_A: 0.8983 best acc_real_B: 0.0203 best acc_rec_A: 0.0520 best acc_rec_B: 0.0304 
+------------------------------
+saving the model at the end of epoch 6, iters 21120
+End of epoch 6 / 100 	 Time Taken: 35 sec
+2025-04-16 23:49:33.241182
+------------------------------
+best acc_D_ft_source: 0.9972 best acc_D_ft_target: 0.8728 best acc_fake_A: 0.0274 best acc_fake_B: 0.0518 best acc_real_A: 0.8991 best acc_real_B: 0.0203 best acc_rec_A: 0.0645 best acc_rec_B: 0.0304 
+------------------------------
+saving the model at the end of epoch 7, iters 24640
+End of epoch 7 / 100 	 Time Taken: 36 sec
+2025-04-16 23:50:09.337537
+(epoch: 8, iters: 960, time: 0.002, data: 0.179) [ loss] D_A: 0.063 G_A: 0.739 cycle_A: 0.547 D_B: 0.038 G_B: 0.816 cycle_B: 0.494 sem_B: 2.100 sem_A: 4.181 C_B_task: 4.100 C_B_adv: 1.087 C_B: 5.187 D_ft_adv: 0.447 C_A: 0.276 
+------------------------------
+best acc_D_ft_source: 0.9972 best acc_D_ft_target: 0.8883 best acc_fake_A: 0.0274 best acc_fake_B: 0.0518 best acc_real_A: 0.8991 best acc_real_B: 0.0239 best acc_rec_A: 0.0645 best acc_rec_B: 0.0304 
+------------------------------
+saving the model at the end of epoch 8, iters 28160
+End of epoch 8 / 100 	 Time Taken: 36 sec
+2025-04-16 23:50:45.682171
+------------------------------
+best acc_D_ft_source: 0.9972 best acc_D_ft_target: 0.8957 best acc_fake_A: 0.0283 best acc_fake_B: 0.0518 best acc_real_A: 0.9058 best acc_real_B: 0.0247 best acc_rec_A: 0.0645 best acc_rec_B: 0.0304 
+------------------------------
+saving the model at the end of epoch 9, iters 31680
+End of epoch 9 / 100 	 Time Taken: 39 sec
+2025-04-16 23:51:24.966840
+(epoch: 10, iters: 320, time: 0.002, data: 0.182) [ loss] D_A: 0.058 G_A: 0.826 cycle_A: 0.566 D_B: 0.042 G_B: 0.936 cycle_B: 0.419 sem_B: 1.766 sem_A: 4.194 C_B_task: 4.057 C_B_adv: 1.625 C_B: 5.681 D_ft_adv: 0.354 C_A: 0.494 
+------------------------------
+best acc_D_ft_source: 0.9972 best acc_D_ft_target: 0.9016 best acc_fake_A: 0.0283 best acc_fake_B: 0.0518 best acc_real_A: 0.9058 best acc_real_B: 0.0267 best acc_rec_A: 0.0645 best acc_rec_B: 0.0304 
+------------------------------
+saving the model at the end of epoch 10, iters 35200
+End of epoch 10 / 100 	 Time Taken: 35 sec
+2025-04-16 23:52:00.313095
+(epoch: 11, iters: 3200, time: 0.002, data: 0.194) [ loss] D_A: 0.065 G_A: 0.886 cycle_A: 0.565 D_B: 0.052 G_B: 1.200 cycle_B: 0.441 sem_B: 2.284 sem_A: 4.192 C_B_task: 4.454 C_B_adv: 1.361 C_B: 5.815 D_ft_adv: 0.343 C_A: 0.287 
+------------------------------
+best acc_D_ft_source: 0.9972 best acc_D_ft_target: 0.9254 best acc_fake_A: 0.0283 best acc_fake_B: 0.0578 best acc_real_A: 0.9058 best acc_real_B: 0.0276 best acc_rec_A: 0.0645 best acc_rec_B: 0.0304 
+------------------------------
+saving the model at the end of epoch 11, iters 38720
+End of epoch 11 / 100 	 Time Taken: 36 sec
+2025-04-16 23:52:37.277135
+------------------------------
+best acc_D_ft_source: 0.9972 best acc_D_ft_target: 0.9254 best acc_fake_A: 0.0283 best acc_fake_B: 0.0578 best acc_real_A: 0.9073 best acc_real_B: 0.0276 best acc_rec_A: 0.0645 best acc_rec_B: 0.0304 
+------------------------------
+saving the model at the end of epoch 12, iters 42240
+End of epoch 12 / 100 	 Time Taken: 37 sec
+2025-04-16 23:53:14.351789
+(epoch: 13, iters: 2560, time: 0.002, data: 0.418) [ loss] D_A: 0.062 G_A: 0.908 cycle_A: 0.556 D_B: 0.050 G_B: 0.611 cycle_B: 0.427 sem_B: 1.389 sem_A: 4.261 C_B_task: 4.339 C_B_adv: 1.753 C_B: 6.092 D_ft_adv: 0.515 C_A: 0.154 
+------------------------------
+best acc_D_ft_source: 0.9972 best acc_D_ft_target: 0.9254 best acc_fake_A: 0.0304 best acc_fake_B: 0.0578 best acc_real_A: 0.9073 best acc_real_B: 0.0276 best acc_rec_A: 0.0683 best acc_rec_B: 0.0304 
+------------------------------
+saving the model at the end of epoch 13, iters 45760
+End of epoch 13 / 100 	 Time Taken: 35 sec
+2025-04-16 23:53:49.672612
+------------------------------
+best acc_D_ft_source: 0.9972 best acc_D_ft_target: 0.9254 best acc_fake_A: 0.0304 best acc_fake_B: 0.0578 best acc_real_A: 0.9073 best acc_real_B: 0.0276 best acc_rec_A: 0.0683 best acc_rec_B: 0.0304 
+------------------------------
+saving the model at the end of epoch 14, iters 49280
+End of epoch 14 / 100 	 Time Taken: 36 sec
+2025-04-16 23:54:26.172954
+(epoch: 15, iters: 1920, time: 0.002, data: 0.191) [ loss] D_A: 0.092 G_A: 1.013 cycle_A: 0.732 D_B: 0.032 G_B: 0.775 cycle_B: 0.424 sem_B: 1.764 sem_A: 3.986 C_B_task: 4.076 C_B_adv: 1.691 C_B: 5.767 D_ft_adv: 0.356 C_A: 0.375 
+------------------------------
+best acc_D_ft_source: 0.9972 best acc_D_ft_target: 0.9254 best acc_fake_A: 0.0304 best acc_fake_B: 0.0578 best acc_real_A: 0.9157 best acc_real_B: 0.0276 best acc_rec_A: 0.0683 best acc_rec_B: 0.0304 
+------------------------------
+saving the model at the end of epoch 15, iters 52800
+End of epoch 15 / 100 	 Time Taken: 35 sec
+2025-04-16 23:55:01.624777
+------------------------------
+best acc_D_ft_source: 0.9972 best acc_D_ft_target: 0.9254 best acc_fake_A: 0.0304 best acc_fake_B: 0.0578 best acc_real_A: 0.9157 best acc_real_B: 0.0276 best acc_rec_A: 0.0683 best acc_rec_B: 0.0304 
+------------------------------
+saving the model at the end of epoch 16, iters 56320
+End of epoch 16 / 100 	 Time Taken: 35 sec
+2025-04-16 23:55:37.221668
+(epoch: 17, iters: 1280, time: 0.002, data: 0.217) [ loss] D_A: 0.037 G_A: 0.915 cycle_A: 0.606 D_B: 0.023 G_B: 0.831 cycle_B: 0.411 sem_B: 2.524 sem_A: 4.033 C_B_task: 4.002 C_B_adv: 1.799 C_B: 5.801 D_ft_adv: 0.333 C_A: 0.146 
+------------------------------
+best acc_D_ft_source: 0.9972 best acc_D_ft_target: 0.9254 best acc_fake_A: 0.0318 best acc_fake_B: 0.0585 best acc_real_A: 0.9157 best acc_real_B: 0.0276 best acc_rec_A: 0.0683 best acc_rec_B: 0.0304 
+------------------------------
+saving the model at the end of epoch 17, iters 59840
+End of epoch 17 / 100 	 Time Taken: 37 sec
+2025-04-16 23:56:14.676097
+------------------------------
+best acc_D_ft_source: 0.9972 best acc_D_ft_target: 0.9254 best acc_fake_A: 0.0318 best acc_fake_B: 0.0593 best acc_real_A: 0.9157 best acc_real_B: 0.0276 best acc_rec_A: 0.0703 best acc_rec_B: 0.0304 
+------------------------------
+saving the model at the end of epoch 18, iters 63360
+End of epoch 18 / 100 	 Time Taken: 35 sec
+2025-04-16 23:56:50.256805
+(epoch: 19, iters: 640, time: 0.002, data: 0.185) [ loss] D_A: 0.063 G_A: 0.655 cycle_A: 0.511 D_B: 0.030 G_B: 0.768 cycle_B: 0.394 sem_B: 1.021 sem_A: 4.459 C_B_task: 4.044 C_B_adv: 2.111 C_B: 6.155 D_ft_adv: 0.434 C_A: 0.341 
+saving the latest model (epoch 19, total_iters 64000)
+------------------------------
+best acc_D_ft_source: 0.9972 best acc_D_ft_target: 0.9254 best acc_fake_A: 0.0318 best acc_fake_B: 0.0593 best acc_real_A: 0.9157 best acc_real_B: 0.0276 best acc_rec_A: 0.0803 best acc_rec_B: 0.0304 
+------------------------------
+saving the model at the end of epoch 19, iters 66880
+End of epoch 19 / 100 	 Time Taken: 35 sec
+2025-04-16 23:57:25.662071
+(epoch: 20, iters: 3520, time: 0.001, data: 0.205) [ loss] D_A: 0.052 G_A: 1.039 cycle_A: 0.466 D_B: 0.027 G_B: 1.187 cycle_B: 0.419 sem_B: 1.254 sem_A: 4.710 C_B_task: 4.177 C_B_adv: 1.594 C_B: 5.771 D_ft_adv: 0.334 C_A: 0.227 
+------------------------------
+best acc_D_ft_source: 0.9972 best acc_D_ft_target: 0.9254 best acc_fake_A: 0.0318 best acc_fake_B: 0.0593 best acc_real_A: 0.9157 best acc_real_B: 0.0276 best acc_rec_A: 0.0803 best acc_rec_B: 0.0304 
+------------------------------
+saving the model at the end of epoch 20, iters 70400
+End of epoch 20 / 100 	 Time Taken: 36 sec
+2025-04-16 23:58:01.830344
+------------------------------
+best acc_D_ft_source: 0.9972 best acc_D_ft_target: 0.9254 best acc_fake_A: 0.0318 best acc_fake_B: 0.0593 best acc_real_A: 0.9157 best acc_real_B: 0.0276 best acc_rec_A: 0.0803 best acc_rec_B: 0.0304 
+------------------------------
+saving the model at the end of epoch 21, iters 73920
+End of epoch 21 / 100 	 Time Taken: 33 sec
+2025-04-16 23:58:35.697356
+(epoch: 22, iters: 2880, time: 0.002, data: 1.162) [ loss] D_A: 0.035 G_A: 0.839 cycle_A: 0.536 D_B: 0.025 G_B: 0.819 cycle_B: 0.426 sem_B: 1.570 sem_A: 4.955 C_B_task: 3.989 C_B_adv: 1.744 C_B: 5.733 D_ft_adv: 0.492 C_A: 0.159 
+------------------------------
+best acc_D_ft_source: 0.9972 best acc_D_ft_target: 0.9254 best acc_fake_A: 0.0318 best acc_fake_B: 0.0593 best acc_real_A: 0.9164 best acc_real_B: 0.0276 best acc_rec_A: 0.0824 best acc_rec_B: 0.0304 
+------------------------------
+saving the model at the end of epoch 22, iters 77440
+End of epoch 22 / 100 	 Time Taken: 34 sec
+2025-04-16 23:59:09.987087
+------------------------------
+best acc_D_ft_source: 0.9972 best acc_D_ft_target: 0.9254 best acc_fake_A: 0.0318 best acc_fake_B: 0.0616 best acc_real_A: 0.9164 best acc_real_B: 0.0276 best acc_rec_A: 0.0824 best acc_rec_B: 0.0312 
+------------------------------
+saving the model at the end of epoch 23, iters 80960
+End of epoch 23 / 100 	 Time Taken: 36 sec
+2025-04-16 23:59:46.659789
+(epoch: 24, iters: 2240, time: 0.002, data: 0.776) [ loss] D_A: 0.068 G_A: 0.630 cycle_A: 0.519 D_B: 0.022 G_B: 1.115 cycle_B: 0.414 sem_B: 0.940 sem_A: 4.118 C_B_task: 4.228 C_B_adv: 1.426 C_B: 5.654 D_ft_adv: 0.556 C_A: 0.127 
+------------------------------
+best acc_D_ft_source: 0.9972 best acc_D_ft_target: 0.9254 best acc_fake_A: 0.0318 best acc_fake_B: 0.0664 best acc_real_A: 0.9164 best acc_real_B: 0.0276 best acc_rec_A: 0.0871 best acc_rec_B: 0.0312 
+------------------------------
+saving the model at the end of epoch 24, iters 84480
+End of epoch 24 / 100 	 Time Taken: 36 sec
+2025-04-17 00:00:22.981475
+------------------------------
+best acc_D_ft_source: 0.9972 best acc_D_ft_target: 0.9254 best acc_fake_A: 0.0318 best acc_fake_B: 0.0664 best acc_real_A: 0.9164 best acc_real_B: 0.0276 best acc_rec_A: 0.0871 best acc_rec_B: 0.0312 
+------------------------------
+saving the model at the end of epoch 25, iters 88000
+End of epoch 25 / 100 	 Time Taken: 35 sec
+2025-04-17 00:00:58.254258
+(epoch: 26, iters: 1600, time: 0.002, data: 0.180) [ loss] D_A: 0.029 G_A: 0.922 cycle_A: 0.503 D_B: 0.071 G_B: 0.522 cycle_B: 0.362 sem_B: 0.914 sem_A: 4.529 C_B_task: 4.000 C_B_adv: 1.512 C_B: 5.512 D_ft_adv: 0.409 C_A: 0.429 
+------------------------------
+best acc_D_ft_source: 0.9972 best acc_D_ft_target: 0.9254 best acc_fake_A: 0.0318 best acc_fake_B: 0.0664 best acc_real_A: 0.9210 best acc_real_B: 0.0298 best acc_rec_A: 0.1148 best acc_rec_B: 0.0312 
+------------------------------
+saving the model at the end of epoch 26, iters 91520
+End of epoch 26 / 100 	 Time Taken: 35 sec
+2025-04-17 00:01:33.802743
+------------------------------
+best acc_D_ft_source: 0.9972 best acc_D_ft_target: 0.9254 best acc_fake_A: 0.0381 best acc_fake_B: 0.0713 best acc_real_A: 0.9210 best acc_real_B: 0.0315 best acc_rec_A: 0.2052 best acc_rec_B: 0.0312 
+------------------------------
+saving the model at the end of epoch 27, iters 95040
+End of epoch 27 / 100 	 Time Taken: 35 sec
+2025-04-17 00:02:09.715539
+(epoch: 28, iters: 960, time: 0.002, data: 0.206) [ loss] D_A: 0.038 G_A: 0.915 cycle_A: 0.493 D_B: 0.040 G_B: 0.901 cycle_B: 0.396 sem_B: 1.675 sem_A: 4.316 C_B_task: 4.134 C_B_adv: 1.254 C_B: 5.388 D_ft_adv: 0.575 C_A: 0.281 
+------------------------------
+best acc_D_ft_source: 0.9972 best acc_D_ft_target: 0.9254 best acc_fake_A: 0.0403 best acc_fake_B: 0.0713 best acc_real_A: 0.9210 best acc_real_B: 0.0315 best acc_rec_A: 0.2234 best acc_rec_B: 0.0312 
+------------------------------
+saving the model at the end of epoch 28, iters 98560
+End of epoch 28 / 100 	 Time Taken: 36 sec
+2025-04-17 00:02:45.934141
+------------------------------
+best acc_D_ft_source: 0.9972 best acc_D_ft_target: 0.9254 best acc_fake_A: 0.0403 best acc_fake_B: 0.0733 best acc_real_A: 0.9210 best acc_real_B: 0.0315 best acc_rec_A: 0.2234 best acc_rec_B: 0.0343 
+------------------------------
+saving the model at the end of epoch 29, iters 102080
+End of epoch 29 / 100 	 Time Taken: 34 sec
+2025-04-17 00:03:20.181505
+(epoch: 30, iters: 320, time: 0.002, data: 0.191) [ loss] D_A: 0.036 G_A: 0.805 cycle_A: 0.572 D_B: 0.020 G_B: 0.857 cycle_B: 0.403 sem_B: 1.746 sem_A: 4.256 C_B_task: 4.234 C_B_adv: 1.270 C_B: 5.504 D_ft_adv: 0.468 C_A: 0.190 
+------------------------------
+best acc_D_ft_source: 0.9972 best acc_D_ft_target: 0.9254 best acc_fake_A: 0.0403 best acc_fake_B: 0.0737 best acc_real_A: 0.9230 best acc_real_B: 0.0345 best acc_rec_A: 0.2234 best acc_rec_B: 0.0343 
+------------------------------
+saving the model at the end of epoch 30, iters 105600
+End of epoch 30 / 100 	 Time Taken: 35 sec
+2025-04-17 00:03:55.560517
+(epoch: 31, iters: 3200, time: 0.002, data: 0.180) [ loss] D_A: 0.032 G_A: 0.818 cycle_A: 0.560 D_B: 0.016 G_B: 0.823 cycle_B: 0.421 sem_B: 1.827 sem_A: 4.167 C_B_task: 4.590 C_B_adv: 1.453 C_B: 6.043 D_ft_adv: 0.424 C_A: 0.205 
+------------------------------
+best acc_D_ft_source: 0.9972 best acc_D_ft_target: 0.9254 best acc_fake_A: 0.0403 best acc_fake_B: 0.0737 best acc_real_A: 0.9273 best acc_real_B: 0.0345 best acc_rec_A: 0.2234 best acc_rec_B: 0.0343 
+------------------------------
+saving the model at the end of epoch 31, iters 109120
+End of epoch 31 / 100 	 Time Taken: 36 sec
+2025-04-17 00:04:31.613632
+------------------------------
+best acc_D_ft_source: 0.9972 best acc_D_ft_target: 0.9254 best acc_fake_A: 0.0403 best acc_fake_B: 0.0794 best acc_real_A: 0.9273 best acc_real_B: 0.0345 best acc_rec_A: 0.2234 best acc_rec_B: 0.0343 
+------------------------------
+saving the model at the end of epoch 32, iters 112640
+End of epoch 32 / 100 	 Time Taken: 34 sec
+2025-04-17 00:05:05.891338
+(epoch: 33, iters: 2560, time: 0.002, data: 0.196) [ loss] D_A: 0.020 G_A: 0.860 cycle_A: 0.505 D_B: 0.114 G_B: 2.094 cycle_B: 0.389 sem_B: 1.575 sem_A: 6.640 C_B_task: 4.031 C_B_adv: 1.429 C_B: 5.460 D_ft_adv: 0.422 C_A: 0.169 
+------------------------------
+best acc_D_ft_source: 0.9972 best acc_D_ft_target: 0.9254 best acc_fake_A: 0.0403 best acc_fake_B: 0.0794 best acc_real_A: 0.9273 best acc_real_B: 0.0345 best acc_rec_A: 0.2234 best acc_rec_B: 0.0343 
+------------------------------
+saving the model at the end of epoch 33, iters 116160
+End of epoch 33 / 100 	 Time Taken: 33 sec
+2025-04-17 00:05:39.842594
+------------------------------
+best acc_D_ft_source: 0.9972 best acc_D_ft_target: 0.9254 best acc_fake_A: 0.0403 best acc_fake_B: 0.0794 best acc_real_A: 0.9273 best acc_real_B: 0.0345 best acc_rec_A: 0.2234 best acc_rec_B: 0.0343 
+------------------------------
+saving the model at the end of epoch 34, iters 119680
+End of epoch 34 / 100 	 Time Taken: 34 sec
+2025-04-17 00:06:14.370813
+(epoch: 35, iters: 1920, time: 0.002, data: 0.199) [ loss] D_A: 0.036 G_A: 0.963 cycle_A: 0.628 D_B: 0.012 G_B: 0.883 cycle_B: 0.400 sem_B: 1.345 sem_A: 4.209 C_B_task: 4.167 C_B_adv: 1.386 C_B: 5.553 D_ft_adv: 0.501 C_A: 0.153 
+------------------------------
+best acc_D_ft_source: 0.9972 best acc_D_ft_target: 0.9254 best acc_fake_A: 0.0403 best acc_fake_B: 0.0794 best acc_real_A: 0.9273 best acc_real_B: 0.0345 best acc_rec_A: 0.2234 best acc_rec_B: 0.0343 
+------------------------------
+saving the model at the end of epoch 35, iters 123200
+End of epoch 35 / 100 	 Time Taken: 35 sec
+2025-04-17 00:06:50.217092
+------------------------------
+best acc_D_ft_source: 0.9972 best acc_D_ft_target: 0.9254 best acc_fake_A: 0.0403 best acc_fake_B: 0.0838 best acc_real_A: 0.9273 best acc_real_B: 0.0345 best acc_rec_A: 0.2234 best acc_rec_B: 0.0343 
+------------------------------
+saving the model at the end of epoch 36, iters 126720
+End of epoch 36 / 100 	 Time Taken: 35 sec
+2025-04-17 00:07:26.153448
+(epoch: 37, iters: 1280, time: 0.002, data: 0.257) [ loss] D_A: 0.030 G_A: 0.927 cycle_A: 0.556 D_B: 0.017 G_B: 0.984 cycle_B: 0.413 sem_B: 2.104 sem_A: 4.240 C_B_task: 4.105 C_B_adv: 1.272 C_B: 5.377 D_ft_adv: 0.652 C_A: 0.070 
+saving the latest model (epoch 37, total_iters 128000)
+------------------------------
+best acc_D_ft_source: 0.9972 best acc_D_ft_target: 0.9254 best acc_fake_A: 0.0403 best acc_fake_B: 0.0841 best acc_real_A: 0.9273 best acc_real_B: 0.0388 best acc_rec_A: 0.2234 best acc_rec_B: 0.0356 
+------------------------------
+saving the model at the end of epoch 37, iters 130240
+End of epoch 37 / 100 	 Time Taken: 35 sec
+2025-04-17 00:08:01.519001
+------------------------------
+best acc_D_ft_source: 0.9972 best acc_D_ft_target: 0.9254 best acc_fake_A: 0.0403 best acc_fake_B: 0.0887 best acc_real_A: 0.9273 best acc_real_B: 0.0418 best acc_rec_A: 0.2234 best acc_rec_B: 0.0356 
+------------------------------
+saving the model at the end of epoch 38, iters 133760
+End of epoch 38 / 100 	 Time Taken: 35 sec
+2025-04-17 00:08:37.342256
+(epoch: 39, iters: 640, time: 0.002, data: 0.199) [ loss] D_A: 0.059 G_A: 1.195 cycle_A: 0.445 D_B: 0.019 G_B: 1.059 cycle_B: 0.360 sem_B: 1.470 sem_A: 4.557 C_B_task: 4.099 C_B_adv: 0.980 C_B: 5.079 D_ft_adv: 0.655 C_A: 0.303 
+------------------------------
+best acc_D_ft_source: 0.9972 best acc_D_ft_target: 0.9254 best acc_fake_A: 0.0403 best acc_fake_B: 0.0935 best acc_real_A: 0.9273 best acc_real_B: 0.0418 best acc_rec_A: 0.2234 best acc_rec_B: 0.0356 
+------------------------------
+saving the model at the end of epoch 39, iters 137280
+End of epoch 39 / 100 	 Time Taken: 35 sec
+2025-04-17 00:09:12.937592
+(epoch: 40, iters: 3520, time: 0.001, data: 0.197) [ loss] D_A: 0.023 G_A: 0.921 cycle_A: 0.491 D_B: 0.013 G_B: 0.827 cycle_B: 0.357 sem_B: 1.359 sem_A: 4.494 C_B_task: 3.884 C_B_adv: 1.968 C_B: 5.852 D_ft_adv: 0.660 C_A: 0.083 
+------------------------------
+best acc_D_ft_source: 0.9972 best acc_D_ft_target: 0.9254 best acc_fake_A: 0.0403 best acc_fake_B: 0.0957 best acc_real_A: 0.9273 best acc_real_B: 0.0418 best acc_rec_A: 0.2234 best acc_rec_B: 0.0438 
+------------------------------
+saving the model at the end of epoch 40, iters 140800
+End of epoch 40 / 100 	 Time Taken: 35 sec
+2025-04-17 00:09:48.418991
+------------------------------
+best acc_D_ft_source: 0.9972 best acc_D_ft_target: 0.9254 best acc_fake_A: 0.0403 best acc_fake_B: 0.0957 best acc_real_A: 0.9273 best acc_real_B: 0.0418 best acc_rec_A: 0.2234 best acc_rec_B: 0.0438 
+------------------------------
+saving the model at the end of epoch 41, iters 144320
+End of epoch 41 / 100 	 Time Taken: 35 sec
+2025-04-17 00:10:23.778939
+(epoch: 42, iters: 2880, time: 0.002, data: 1.174) [ loss] D_A: 0.022 G_A: 0.943 cycle_A: 0.518 D_B: 0.004 G_B: 0.924 cycle_B: 0.406 sem_B: 1.637 sem_A: 4.012 C_B_task: 4.155 C_B_adv: 1.438 C_B: 5.594 D_ft_adv: 0.488 C_A: 0.301 
+------------------------------
+best acc_D_ft_source: 0.9972 best acc_D_ft_target: 0.9254 best acc_fake_A: 0.0403 best acc_fake_B: 0.0958 best acc_real_A: 0.9273 best acc_real_B: 0.0418 best acc_rec_A: 0.2234 best acc_rec_B: 0.0438 
+------------------------------
+saving the model at the end of epoch 42, iters 147840
+End of epoch 42 / 100 	 Time Taken: 34 sec
+2025-04-17 00:10:58.254475
+------------------------------
+best acc_D_ft_source: 0.9972 best acc_D_ft_target: 0.9254 best acc_fake_A: 0.0403 best acc_fake_B: 0.0959 best acc_real_A: 0.9280 best acc_real_B: 0.0418 best acc_rec_A: 0.2234 best acc_rec_B: 0.0438 
+------------------------------
+saving the model at the end of epoch 43, iters 151360
+End of epoch 43 / 100 	 Time Taken: 38 sec
+2025-04-17 00:11:36.452535
+(epoch: 44, iters: 2240, time: 0.002, data: 0.191) [ loss] D_A: 0.037 G_A: 1.215 cycle_A: 0.542 D_B: 0.005 G_B: 1.078 cycle_B: 0.406 sem_B: 1.269 sem_A: 3.994 C_B_task: 4.089 C_B_adv: 1.398 C_B: 5.486 D_ft_adv: 0.474 C_A: 0.343 
+------------------------------
+best acc_D_ft_source: 0.9972 best acc_D_ft_target: 0.9254 best acc_fake_A: 0.0403 best acc_fake_B: 0.1015 best acc_real_A: 0.9280 best acc_real_B: 0.0418 best acc_rec_A: 0.2234 best acc_rec_B: 0.0438 
+------------------------------
+saving the model at the end of epoch 44, iters 154880
+End of epoch 44 / 100 	 Time Taken: 36 sec
+2025-04-17 00:12:12.745924
+------------------------------
+best acc_D_ft_source: 0.9972 best acc_D_ft_target: 0.9254 best acc_fake_A: 0.0403 best acc_fake_B: 0.1015 best acc_real_A: 0.9302 best acc_real_B: 0.0418 best acc_rec_A: 0.2234 best acc_rec_B: 0.0438 
+------------------------------
+saving the model at the end of epoch 45, iters 158400
+End of epoch 45 / 100 	 Time Taken: 34 sec
+2025-04-17 00:12:46.984246
+(epoch: 46, iters: 1600, time: 0.002, data: 0.197) [ loss] D_A: 0.021 G_A: 0.887 cycle_A: 0.496 D_B: 0.004 G_B: 0.975 cycle_B: 0.360 sem_B: 1.484 sem_A: 3.887 C_B_task: 3.894 C_B_adv: 1.374 C_B: 5.268 D_ft_adv: 0.593 C_A: 0.381 
+------------------------------
+best acc_D_ft_source: 0.9972 best acc_D_ft_target: 0.9254 best acc_fake_A: 0.0403 best acc_fake_B: 0.1021 best acc_real_A: 0.9302 best acc_real_B: 0.0418 best acc_rec_A: 0.2234 best acc_rec_B: 0.0438 
+------------------------------
+saving the model at the end of epoch 46, iters 161920
+End of epoch 46 / 100 	 Time Taken: 35 sec
+2025-04-17 00:13:22.170853
+------------------------------
+best acc_D_ft_source: 0.9972 best acc_D_ft_target: 0.9254 best acc_fake_A: 0.0403 best acc_fake_B: 0.1021 best acc_real_A: 0.9349 best acc_real_B: 0.0418 best acc_rec_A: 0.2234 best acc_rec_B: 0.0438 
+------------------------------
+saving the model at the end of epoch 47, iters 165440
+End of epoch 47 / 100 	 Time Taken: 34 sec
+2025-04-17 00:13:56.275431
+(epoch: 48, iters: 960, time: 0.002, data: 0.470) [ loss] D_A: 0.019 G_A: 0.963 cycle_A: 0.523 D_B: 0.039 G_B: 1.535 cycle_B: 0.362 sem_B: 1.638 sem_A: 4.130 C_B_task: 4.017 C_B_adv: 1.131 C_B: 5.148 D_ft_adv: 0.610 C_A: 0.357 
+------------------------------
+best acc_D_ft_source: 0.9972 best acc_D_ft_target: 0.9254 best acc_fake_A: 0.0403 best acc_fake_B: 0.1041 best acc_real_A: 0.9349 best acc_real_B: 0.0418 best acc_rec_A: 0.2234 best acc_rec_B: 0.0438 
+------------------------------
+saving the model at the end of epoch 48, iters 168960
+End of epoch 48 / 100 	 Time Taken: 36 sec
+2025-04-17 00:14:32.636678
+------------------------------
+best acc_D_ft_source: 0.9972 best acc_D_ft_target: 0.9254 best acc_fake_A: 0.0403 best acc_fake_B: 0.1041 best acc_real_A: 0.9349 best acc_real_B: 0.0418 best acc_rec_A: 0.2234 best acc_rec_B: 0.0438 
+------------------------------
+saving the model at the end of epoch 49, iters 172480
+End of epoch 49 / 100 	 Time Taken: 37 sec
+2025-04-17 00:15:10.163129
+(epoch: 50, iters: 320, time: 0.002, data: 0.197) [ loss] D_A: 0.022 G_A: 0.899 cycle_A: 0.471 D_B: 0.009 G_B: 1.085 cycle_B: 0.342 sem_B: 1.248 sem_A: 3.924 C_B_task: 4.032 C_B_adv: 1.491 C_B: 5.523 D_ft_adv: 0.565 C_A: 0.260 
+------------------------------
+best acc_D_ft_source: 0.9972 best acc_D_ft_target: 0.9254 best acc_fake_A: 0.0403 best acc_fake_B: 0.1068 best acc_real_A: 0.9349 best acc_real_B: 0.0418 best acc_rec_A: 0.2234 best acc_rec_B: 0.0438 
+------------------------------
+saving the model at the end of epoch 50, iters 176000
+End of epoch 50 / 100 	 Time Taken: 39 sec
+2025-04-17 00:15:49.482988
+(epoch: 51, iters: 3200, time: 0.002, data: 0.192) [ loss] D_A: 0.018 G_A: 1.022 cycle_A: 0.441 D_B: 0.007 G_B: 1.038 cycle_B: 0.367 sem_B: 1.377 sem_A: 4.303 C_B_task: 3.965 C_B_adv: 1.390 C_B: 5.355 D_ft_adv: 0.541 C_A: 0.247 
+------------------------------
+best acc_D_ft_source: 0.9972 best acc_D_ft_target: 0.9254 best acc_fake_A: 0.0403 best acc_fake_B: 0.1142 best acc_real_A: 0.9349 best acc_real_B: 0.0418 best acc_rec_A: 0.2234 best acc_rec_B: 0.0438 
+------------------------------
+saving the model at the end of epoch 51, iters 179520
+End of epoch 51 / 100 	 Time Taken: 37 sec
+2025-04-17 00:16:26.788145
+------------------------------
+best acc_D_ft_source: 0.9972 best acc_D_ft_target: 0.9254 best acc_fake_A: 0.0403 best acc_fake_B: 0.1142 best acc_real_A: 0.9349 best acc_real_B: 0.0418 best acc_rec_A: 0.2409 best acc_rec_B: 0.0438 
+------------------------------
+saving the model at the end of epoch 52, iters 183040
+End of epoch 52 / 100 	 Time Taken: 37 sec
+2025-04-17 00:17:04.450777
+(epoch: 53, iters: 2560, time: 0.002, data: 0.191) [ loss] D_A: 0.027 G_A: 0.902 cycle_A: 0.432 D_B: 0.006 G_B: 1.073 cycle_B: 0.354 sem_B: 0.849 sem_A: 4.291 C_B_task: 3.838 C_B_adv: 1.116 C_B: 4.954 D_ft_adv: 0.579 C_A: 0.144 
+------------------------------
+best acc_D_ft_source: 0.9972 best acc_D_ft_target: 0.9254 best acc_fake_A: 0.0403 best acc_fake_B: 0.1175 best acc_real_A: 0.9349 best acc_real_B: 0.0418 best acc_rec_A: 0.2409 best acc_rec_B: 0.0438 
+------------------------------
+saving the model at the end of epoch 53, iters 186560
+End of epoch 53 / 100 	 Time Taken: 34 sec
+2025-04-17 00:17:38.883788
+------------------------------
+best acc_D_ft_source: 0.9972 best acc_D_ft_target: 0.9254 best acc_fake_A: 0.0403 best acc_fake_B: 0.1175 best acc_real_A: 0.9379 best acc_real_B: 0.0418 best acc_rec_A: 0.2409 best acc_rec_B: 0.0438 
+------------------------------
+saving the model at the end of epoch 54, iters 190080
+End of epoch 54 / 100 	 Time Taken: 36 sec
+2025-04-17 00:18:15.469053
+(epoch: 55, iters: 1920, time: 0.002, data: 0.206) [ loss] D_A: 0.019 G_A: 0.870 cycle_A: 0.431 D_B: 0.003 G_B: 0.994 cycle_B: 0.368 sem_B: 1.386 sem_A: 4.234 C_B_task: 3.885 C_B_adv: 1.131 C_B: 5.016 D_ft_adv: 0.557 C_A: 0.276 
+saving the latest model (epoch 55, total_iters 192000)
+------------------------------
+best acc_D_ft_source: 0.9972 best acc_D_ft_target: 0.9254 best acc_fake_A: 0.0403 best acc_fake_B: 0.1175 best acc_real_A: 0.9379 best acc_real_B: 0.0418 best acc_rec_A: 0.2409 best acc_rec_B: 0.0438 
+------------------------------
+saving the model at the end of epoch 55, iters 193600
+End of epoch 55 / 100 	 Time Taken: 34 sec
+2025-04-17 00:18:50.285701
+------------------------------
+best acc_D_ft_source: 0.9972 best acc_D_ft_target: 0.9254 best acc_fake_A: 0.0403 best acc_fake_B: 0.1219 best acc_real_A: 0.9379 best acc_real_B: 0.0418 best acc_rec_A: 0.2409 best acc_rec_B: 0.0438 
+------------------------------
+saving the model at the end of epoch 56, iters 197120
+End of epoch 56 / 100 	 Time Taken: 34 sec
+2025-04-17 00:19:24.811922
+(epoch: 57, iters: 1280, time: 0.002, data: 0.186) [ loss] D_A: 0.016 G_A: 0.944 cycle_A: 0.439 D_B: 0.004 G_B: 0.988 cycle_B: 0.357 sem_B: 1.560 sem_A: 3.970 C_B_task: 3.864 C_B_adv: 0.971 C_B: 4.835 D_ft_adv: 0.609 C_A: 0.299 
+------------------------------
+best acc_D_ft_source: 0.9972 best acc_D_ft_target: 0.9254 best acc_fake_A: 0.0403 best acc_fake_B: 0.1265 best acc_real_A: 0.9379 best acc_real_B: 0.0448 best acc_rec_A: 0.2409 best acc_rec_B: 0.0438 
+------------------------------
+saving the model at the end of epoch 57, iters 200640
+End of epoch 57 / 100 	 Time Taken: 37 sec
+2025-04-17 00:20:02.060063
+------------------------------
+best acc_D_ft_source: 0.9972 best acc_D_ft_target: 0.9254 best acc_fake_A: 0.0403 best acc_fake_B: 0.1265 best acc_real_A: 0.9379 best acc_real_B: 0.0448 best acc_rec_A: 0.2409 best acc_rec_B: 0.0438 
+------------------------------
+saving the model at the end of epoch 58, iters 204160
+End of epoch 58 / 100 	 Time Taken: 36 sec
+2025-04-17 00:20:38.716803
+(epoch: 59, iters: 640, time: 0.002, data: 0.200) [ loss] D_A: 0.040 G_A: 1.232 cycle_A: 0.493 D_B: 0.002 G_B: 1.023 cycle_B: 0.354 sem_B: 0.951 sem_A: 4.220 C_B_task: 3.839 C_B_adv: 1.234 C_B: 5.073 D_ft_adv: 0.531 C_A: 0.133 
+------------------------------
+best acc_D_ft_source: 0.9972 best acc_D_ft_target: 0.9254 best acc_fake_A: 0.0403 best acc_fake_B: 0.1265 best acc_real_A: 0.9379 best acc_real_B: 0.0448 best acc_rec_A: 0.2409 best acc_rec_B: 0.0438 
+------------------------------
+saving the model at the end of epoch 59, iters 207680
+End of epoch 59 / 100 	 Time Taken: 34 sec
+2025-04-17 00:21:13.598320
+(epoch: 60, iters: 3520, time: 0.001, data: -0.843) [ loss] D_A: 0.017 G_A: 0.959 cycle_A: 0.454 D_B: 0.003 G_B: 0.955 cycle_B: 0.363 sem_B: 0.836 sem_A: 4.073 C_B_task: 3.594 C_B_adv: 0.000 C_B: 3.594 D_ft_adv: 0.704 C_A: 0.124 
+------------------------------
+best acc_D_ft_source: 0.9972 best acc_D_ft_target: 0.9254 best acc_fake_A: 0.0403 best acc_fake_B: 0.1265 best acc_real_A: 0.9379 best acc_real_B: 0.0448 best acc_rec_A: 0.2409 best acc_rec_B: 0.0438 
+------------------------------
+saving the model at the end of epoch 60, iters 211200
+End of epoch 60 / 100 	 Time Taken: 37 sec
+2025-04-17 00:21:51.462374
+------------------------------
+best acc_D_ft_source: 0.9972 best acc_D_ft_target: 0.9254 best acc_fake_A: 0.0403 best acc_fake_B: 0.1265 best acc_real_A: 0.9442 best acc_real_B: 0.0448 best acc_rec_A: 0.2409 best acc_rec_B: 0.0438 
+------------------------------
+saving the model at the end of epoch 61, iters 214720
+End of epoch 61 / 100 	 Time Taken: 36 sec
+2025-04-17 00:22:27.538122
+(epoch: 62, iters: 2880, time: 0.002, data: 1.493) [ loss] D_A: 0.025 G_A: 0.740 cycle_A: 0.508 D_B: 0.003 G_B: 0.904 cycle_B: 0.363 sem_B: 1.423 sem_A: 4.271 C_B_task: 4.014 C_B_adv: 0.953 C_B: 4.967 D_ft_adv: 0.657 C_A: 0.235 
+------------------------------
+best acc_D_ft_source: 0.9972 best acc_D_ft_target: 0.9254 best acc_fake_A: 0.0403 best acc_fake_B: 0.1276 best acc_real_A: 0.9442 best acc_real_B: 0.0448 best acc_rec_A: 0.2409 best acc_rec_B: 0.0438 
+------------------------------
+saving the model at the end of epoch 62, iters 218240
+End of epoch 62 / 100 	 Time Taken: 36 sec
+2025-04-17 00:23:04.228802
+------------------------------
+best acc_D_ft_source: 0.9972 best acc_D_ft_target: 0.9254 best acc_fake_A: 0.0403 best acc_fake_B: 0.1379 best acc_real_A: 0.9442 best acc_real_B: 0.0448 best acc_rec_A: 0.2409 best acc_rec_B: 0.0438 
+------------------------------
+saving the model at the end of epoch 63, iters 221760
+End of epoch 63 / 100 	 Time Taken: 38 sec
+2025-04-17 00:23:42.835204
+(epoch: 64, iters: 2240, time: 0.002, data: 0.189) [ loss] D_A: 0.020 G_A: 0.833 cycle_A: 0.526 D_B: 0.002 G_B: 1.064 cycle_B: 0.384 sem_B: 1.523 sem_A: 4.117 C_B_task: 3.563 C_B_adv: 1.195 C_B: 4.758 D_ft_adv: 0.582 C_A: 0.135 
+------------------------------
+best acc_D_ft_source: 0.9972 best acc_D_ft_target: 0.9254 best acc_fake_A: 0.0403 best acc_fake_B: 0.1392 best acc_real_A: 0.9442 best acc_real_B: 0.0448 best acc_rec_A: 0.2409 best acc_rec_B: 0.0438 
+------------------------------
+saving the model at the end of epoch 64, iters 225280
+End of epoch 64 / 100 	 Time Taken: 36 sec
+2025-04-17 00:24:19.049887
+------------------------------
+best acc_D_ft_source: 0.9972 best acc_D_ft_target: 0.9254 best acc_fake_A: 0.0403 best acc_fake_B: 0.1392 best acc_real_A: 0.9442 best acc_real_B: 0.0448 best acc_rec_A: 0.2409 best acc_rec_B: 0.0438 
+------------------------------
+saving the model at the end of epoch 65, iters 228800
+End of epoch 65 / 100 	 Time Taken: 36 sec
+2025-04-17 00:24:55.902758
+(epoch: 66, iters: 1600, time: 0.002, data: 0.237) [ loss] D_A: 0.012 G_A: 1.011 cycle_A: 0.480 D_B: 0.002 G_B: 0.965 cycle_B: 0.359 sem_B: 0.947 sem_A: 4.298 C_B_task: 3.273 C_B_adv: 1.349 C_B: 4.622 D_ft_adv: 0.600 C_A: 0.227 
+------------------------------
+best acc_D_ft_source: 0.9972 best acc_D_ft_target: 0.9254 best acc_fake_A: 0.0403 best acc_fake_B: 0.1454 best acc_real_A: 0.9442 best acc_real_B: 0.0448 best acc_rec_A: 0.2409 best acc_rec_B: 0.0438 
+------------------------------
+saving the model at the end of epoch 66, iters 232320
+End of epoch 66 / 100 	 Time Taken: 35 sec
+2025-04-17 00:25:31.865722
+------------------------------
+best acc_D_ft_source: 0.9972 best acc_D_ft_target: 0.9254 best acc_fake_A: 0.0403 best acc_fake_B: 0.1502 best acc_real_A: 0.9442 best acc_real_B: 0.0448 best acc_rec_A: 0.2409 best acc_rec_B: 0.0438 
+------------------------------
+saving the model at the end of epoch 67, iters 235840
+End of epoch 67 / 100 	 Time Taken: 35 sec
+2025-04-17 00:26:07.082413
+(epoch: 68, iters: 960, time: 0.002, data: 0.217) [ loss] D_A: 0.016 G_A: 0.898 cycle_A: 0.448 D_B: 0.004 G_B: 1.013 cycle_B: 0.385 sem_B: 1.196 sem_A: 4.280 C_B_task: 3.639 C_B_adv: 1.333 C_B: 4.972 D_ft_adv: 0.524 C_A: 0.091 
+------------------------------
+best acc_D_ft_source: 0.9972 best acc_D_ft_target: 0.9254 best acc_fake_A: 0.0403 best acc_fake_B: 0.1502 best acc_real_A: 0.9442 best acc_real_B: 0.0448 best acc_rec_A: 0.2409 best acc_rec_B: 0.0438 
+------------------------------
+saving the model at the end of epoch 68, iters 239360
+End of epoch 68 / 100 	 Time Taken: 35 sec
+2025-04-17 00:26:42.561222
+------------------------------
+best acc_D_ft_source: 0.9972 best acc_D_ft_target: 0.9254 best acc_fake_A: 0.0403 best acc_fake_B: 0.1502 best acc_real_A: 0.9442 best acc_real_B: 0.0448 best acc_rec_A: 0.2409 best acc_rec_B: 0.0438 
+------------------------------
+saving the model at the end of epoch 69, iters 242880
+End of epoch 69 / 100 	 Time Taken: 37 sec
+2025-04-17 00:27:19.660846
+(epoch: 70, iters: 320, time: 0.002, data: 0.682) [ loss] D_A: 0.025 G_A: 1.160 cycle_A: 0.420 D_B: 0.003 G_B: 0.962 cycle_B: 0.420 sem_B: 1.116 sem_A: 4.056 C_B_task: 3.391 C_B_adv: 1.047 C_B: 4.437 D_ft_adv: 0.541 C_A: 0.091 
+------------------------------
+best acc_D_ft_source: 0.9972 best acc_D_ft_target: 0.9254 best acc_fake_A: 0.0403 best acc_fake_B: 0.1562 best acc_real_A: 0.9442 best acc_real_B: 0.0448 best acc_rec_A: 0.2409 best acc_rec_B: 0.0438 
+------------------------------
+saving the model at the end of epoch 70, iters 246400
+End of epoch 70 / 100 	 Time Taken: 37 sec
+2025-04-17 00:27:56.810023
+(epoch: 71, iters: 3200, time: 0.002, data: 0.195) [ loss] D_A: 0.014 G_A: 0.893 cycle_A: 0.418 D_B: 0.004 G_B: 1.024 cycle_B: 0.349 sem_B: 0.996 sem_A: 4.105 C_B_task: 3.257 C_B_adv: 1.052 C_B: 4.309 D_ft_adv: 0.657 C_A: 0.159 
+------------------------------
+best acc_D_ft_source: 0.9972 best acc_D_ft_target: 0.9254 best acc_fake_A: 0.0435 best acc_fake_B: 0.1670 best acc_real_A: 0.9442 best acc_real_B: 0.0448 best acc_rec_A: 0.2409 best acc_rec_B: 0.0438 
+------------------------------
+saving the model at the end of epoch 71, iters 249920
+End of epoch 71 / 100 	 Time Taken: 38 sec
+2025-04-17 00:28:34.867426
+------------------------------
+best acc_D_ft_source: 0.9972 best acc_D_ft_target: 0.9254 best acc_fake_A: 0.0435 best acc_fake_B: 0.1670 best acc_real_A: 0.9453 best acc_real_B: 0.0448 best acc_rec_A: 0.2409 best acc_rec_B: 0.0438 
+------------------------------
+saving the model at the end of epoch 72, iters 253440
+End of epoch 72 / 100 	 Time Taken: 37 sec
+2025-04-17 00:29:12.306266
+(epoch: 73, iters: 2560, time: 0.002, data: 0.204) [ loss] D_A: 0.016 G_A: 1.119 cycle_A: 0.395 D_B: 0.002 G_B: 0.978 cycle_B: 0.380 sem_B: 0.517 sem_A: 4.064 C_B_task: 3.227 C_B_adv: 1.361 C_B: 4.588 D_ft_adv: 0.584 C_A: 0.169 
+saving the latest model (epoch 73, total_iters 256000)
+------------------------------
+best acc_D_ft_source: 0.9972 best acc_D_ft_target: 0.9254 best acc_fake_A: 0.0435 best acc_fake_B: 0.1679 best acc_real_A: 0.9489 best acc_real_B: 0.0448 best acc_rec_A: 0.2409 best acc_rec_B: 0.0438 
+------------------------------
+saving the model at the end of epoch 73, iters 256960
+End of epoch 73 / 100 	 Time Taken: 35 sec
+2025-04-17 00:29:47.986388
+------------------------------
+best acc_D_ft_source: 0.9972 best acc_D_ft_target: 0.9254 best acc_fake_A: 0.0435 best acc_fake_B: 0.1679 best acc_real_A: 0.9489 best acc_real_B: 0.0448 best acc_rec_A: 0.2409 best acc_rec_B: 0.0438 
+------------------------------
+saving the model at the end of epoch 74, iters 260480
+End of epoch 74 / 100 	 Time Taken: 35 sec
+2025-04-17 00:30:23.846645
+(epoch: 75, iters: 1920, time: 0.002, data: 0.192) [ loss] D_A: 0.014 G_A: 0.912 cycle_A: 0.409 D_B: 0.001 G_B: 0.985 cycle_B: 0.336 sem_B: 0.889 sem_A: 4.162 C_B_task: 3.599 C_B_adv: 1.076 C_B: 4.675 D_ft_adv: 0.646 C_A: 0.139 
+------------------------------
+best acc_D_ft_source: 0.9972 best acc_D_ft_target: 0.9254 best acc_fake_A: 0.0435 best acc_fake_B: 0.1699 best acc_real_A: 0.9489 best acc_real_B: 0.0448 best acc_rec_A: 0.2409 best acc_rec_B: 0.0438 
+------------------------------
+saving the model at the end of epoch 75, iters 264000
+End of epoch 75 / 100 	 Time Taken: 38 sec
+2025-04-17 00:31:02.331938
+------------------------------
+best acc_D_ft_source: 0.9972 best acc_D_ft_target: 0.9254 best acc_fake_A: 0.0435 best acc_fake_B: 0.1699 best acc_real_A: 0.9489 best acc_real_B: 0.0448 best acc_rec_A: 0.2409 best acc_rec_B: 0.0438 
+------------------------------
+saving the model at the end of epoch 76, iters 267520
+End of epoch 76 / 100 	 Time Taken: 38 sec
+2025-04-17 00:31:40.758222
+(epoch: 77, iters: 1280, time: 0.002, data: 0.205) [ loss] D_A: 0.010 G_A: 0.955 cycle_A: 0.439 D_B: 0.002 G_B: 1.005 cycle_B: 0.353 sem_B: 1.290 sem_A: 3.826 C_B_task: 3.258 C_B_adv: 1.089 C_B: 4.347 D_ft_adv: 0.534 C_A: 0.182 
+------------------------------
+best acc_D_ft_source: 0.9972 best acc_D_ft_target: 0.9254 best acc_fake_A: 0.0435 best acc_fake_B: 0.1815 best acc_real_A: 0.9489 best acc_real_B: 0.0448 best acc_rec_A: 0.2409 best acc_rec_B: 0.0438 
+------------------------------
+saving the model at the end of epoch 77, iters 271040
+End of epoch 77 / 100 	 Time Taken: 37 sec
+2025-04-17 00:32:18.331271
+------------------------------
+best acc_D_ft_source: 0.9972 best acc_D_ft_target: 0.9254 best acc_fake_A: 0.0435 best acc_fake_B: 0.1815 best acc_real_A: 0.9489 best acc_real_B: 0.0448 best acc_rec_A: 0.2409 best acc_rec_B: 0.0480 
+------------------------------
+saving the model at the end of epoch 78, iters 274560
+End of epoch 78 / 100 	 Time Taken: 39 sec
+2025-04-17 00:32:57.553621
+(epoch: 79, iters: 640, time: 0.002, data: 0.227) [ loss] D_A: 0.014 G_A: 1.002 cycle_A: 0.460 D_B: 0.004 G_B: 0.894 cycle_B: 0.353 sem_B: 1.002 sem_A: 3.929 C_B_task: 3.126 C_B_adv: 0.933 C_B: 4.060 D_ft_adv: 0.646 C_A: 0.491 
+------------------------------
+best acc_D_ft_source: 0.9972 best acc_D_ft_target: 0.9254 best acc_fake_A: 0.0435 best acc_fake_B: 0.1815 best acc_real_A: 0.9489 best acc_real_B: 0.0448 best acc_rec_A: 0.2409 best acc_rec_B: 0.0480 
+------------------------------
+saving the model at the end of epoch 79, iters 278080
+End of epoch 79 / 100 	 Time Taken: 37 sec
+2025-04-17 00:33:34.894869
+(epoch: 80, iters: 3520, time: 0.001, data: 0.218) [ loss] D_A: 0.007 G_A: 1.005 cycle_A: 0.430 D_B: 0.001 G_B: 0.980 cycle_B: 0.321 sem_B: 1.069 sem_A: 4.153 C_B_task: 2.922 C_B_adv: 0.878 C_B: 3.800 D_ft_adv: 0.677 C_A: 0.123 
+------------------------------
+best acc_D_ft_source: 0.9972 best acc_D_ft_target: 0.9254 best acc_fake_A: 0.0435 best acc_fake_B: 0.1842 best acc_real_A: 0.9489 best acc_real_B: 0.0448 best acc_rec_A: 0.2409 best acc_rec_B: 0.0480 
+------------------------------
+saving the model at the end of epoch 80, iters 281600
+End of epoch 80 / 100 	 Time Taken: 36 sec
+2025-04-17 00:34:11.283212
+------------------------------
+best acc_D_ft_source: 0.9972 best acc_D_ft_target: 0.9254 best acc_fake_A: 0.0453 best acc_fake_B: 0.1948 best acc_real_A: 0.9489 best acc_real_B: 0.0448 best acc_rec_A: 0.2681 best acc_rec_B: 0.0480 
+------------------------------
+saving the model at the end of epoch 81, iters 285120
+End of epoch 81 / 100 	 Time Taken: 37 sec
+2025-04-17 00:34:48.439478
+(epoch: 82, iters: 2880, time: 0.002, data: 1.492) [ loss] D_A: 0.008 G_A: 0.904 cycle_A: 0.476 D_B: 0.009 G_B: 0.797 cycle_B: 0.374 sem_B: 1.642 sem_A: 3.903 C_B_task: 3.142 C_B_adv: 1.240 C_B: 4.382 D_ft_adv: 0.606 C_A: 0.332 
+------------------------------
+best acc_D_ft_source: 0.9972 best acc_D_ft_target: 0.9254 best acc_fake_A: 0.0453 best acc_fake_B: 0.1948 best acc_real_A: 0.9489 best acc_real_B: 0.0448 best acc_rec_A: 0.2681 best acc_rec_B: 0.0480 
+------------------------------
+saving the model at the end of epoch 82, iters 288640
+End of epoch 82 / 100 	 Time Taken: 36 sec
+2025-04-17 00:35:24.944043
+------------------------------
+best acc_D_ft_source: 0.9972 best acc_D_ft_target: 0.9254 best acc_fake_A: 0.0453 best acc_fake_B: 0.1948 best acc_real_A: 0.9489 best acc_real_B: 0.0448 best acc_rec_A: 0.2720 best acc_rec_B: 0.0480 
+------------------------------
+saving the model at the end of epoch 83, iters 292160
+End of epoch 83 / 100 	 Time Taken: 35 sec
+2025-04-17 00:35:59.986658
+(epoch: 84, iters: 2240, time: 0.002, data: 0.177) [ loss] D_A: 0.006 G_A: 1.120 cycle_A: 0.478 D_B: 0.001 G_B: 1.005 cycle_B: 0.363 sem_B: 1.196 sem_A: 4.199 C_B_task: 3.421 C_B_adv: 1.009 C_B: 4.430 D_ft_adv: 0.597 C_A: 0.202 
+------------------------------
+best acc_D_ft_source: 0.9972 best acc_D_ft_target: 0.9254 best acc_fake_A: 0.0453 best acc_fake_B: 0.2042 best acc_real_A: 0.9489 best acc_real_B: 0.0448 best acc_rec_A: 0.2746 best acc_rec_B: 0.0480 
+------------------------------
+saving the model at the end of epoch 84, iters 295680
+End of epoch 84 / 100 	 Time Taken: 38 sec
+2025-04-17 00:36:38.400112
+------------------------------
+best acc_D_ft_source: 0.9972 best acc_D_ft_target: 0.9254 best acc_fake_A: 0.0453 best acc_fake_B: 0.2212 best acc_real_A: 0.9489 best acc_real_B: 0.0448 best acc_rec_A: 0.2849 best acc_rec_B: 0.0480 
+------------------------------
+saving the model at the end of epoch 85, iters 299200
+End of epoch 85 / 100 	 Time Taken: 36 sec
+2025-04-17 00:37:14.814746
+(epoch: 86, iters: 1600, time: 0.002, data: 0.179) [ loss] D_A: 0.008 G_A: 0.901 cycle_A: 0.462 D_B: 0.001 G_B: 1.071 cycle_B: 0.362 sem_B: 1.723 sem_A: 3.699 C_B_task: 3.346 C_B_adv: 0.954 C_B: 4.301 D_ft_adv: 0.612 C_A: 0.165 
+------------------------------
+best acc_D_ft_source: 0.9972 best acc_D_ft_target: 0.9254 best acc_fake_A: 0.0453 best acc_fake_B: 0.2212 best acc_real_A: 0.9489 best acc_real_B: 0.0448 best acc_rec_A: 0.2849 best acc_rec_B: 0.0480 
+------------------------------
+saving the model at the end of epoch 86, iters 302720
+End of epoch 86 / 100 	 Time Taken: 36 sec
+2025-04-17 00:37:51.342765
+------------------------------
+best acc_D_ft_source: 0.9972 best acc_D_ft_target: 0.9254 best acc_fake_A: 0.0453 best acc_fake_B: 0.2244 best acc_real_A: 0.9489 best acc_real_B: 0.0448 best acc_rec_A: 0.2849 best acc_rec_B: 0.0480 
+------------------------------
+saving the model at the end of epoch 87, iters 306240
+End of epoch 87 / 100 	 Time Taken: 36 sec
+2025-04-17 00:38:27.475427
+(epoch: 88, iters: 960, time: 0.002, data: 0.192) [ loss] D_A: 0.006 G_A: 0.988 cycle_A: 0.492 D_B: 0.001 G_B: 0.960 cycle_B: 0.351 sem_B: 1.525 sem_A: 4.210 C_B_task: 3.267 C_B_adv: 0.972 C_B: 4.238 D_ft_adv: 0.603 C_A: 0.185 
+------------------------------
+best acc_D_ft_source: 0.9972 best acc_D_ft_target: 0.9254 best acc_fake_A: 0.0453 best acc_fake_B: 0.2264 best acc_real_A: 0.9489 best acc_real_B: 0.0448 best acc_rec_A: 0.2849 best acc_rec_B: 0.0480 
+------------------------------
+saving the model at the end of epoch 88, iters 309760
+End of epoch 88 / 100 	 Time Taken: 35 sec
+2025-04-17 00:39:03.212064
+------------------------------
+best acc_D_ft_source: 0.9972 best acc_D_ft_target: 0.9254 best acc_fake_A: 0.0453 best acc_fake_B: 0.2264 best acc_real_A: 0.9489 best acc_real_B: 0.0448 best acc_rec_A: 0.2849 best acc_rec_B: 0.0480 
+------------------------------
+saving the model at the end of epoch 89, iters 313280
+End of epoch 89 / 100 	 Time Taken: 36 sec
+2025-04-17 00:39:39.377634
+(epoch: 90, iters: 320, time: 0.002, data: 0.203) [ loss] D_A: 0.006 G_A: 0.967 cycle_A: 0.487 D_B: 0.001 G_B: 1.019 cycle_B: 0.352 sem_B: 0.697 sem_A: 3.990 C_B_task: 3.118 C_B_adv: 1.037 C_B: 4.156 D_ft_adv: 0.588 C_A: 0.212 
+------------------------------
+best acc_D_ft_source: 0.9972 best acc_D_ft_target: 0.9254 best acc_fake_A: 0.0510 best acc_fake_B: 0.2290 best acc_real_A: 0.9489 best acc_real_B: 0.0448 best acc_rec_A: 0.2849 best acc_rec_B: 0.0480 
+------------------------------
+saving the model at the end of epoch 90, iters 316800
+End of epoch 90 / 100 	 Time Taken: 39 sec
+2025-04-17 00:40:18.746173
+(epoch: 91, iters: 3200, time: 0.002, data: 0.188) [ loss] D_A: 0.004 G_A: 1.013 cycle_A: 0.513 D_B: 0.002 G_B: 1.072 cycle_B: 0.359 sem_B: 1.313 sem_A: 4.267 C_B_task: 3.145 C_B_adv: 0.872 C_B: 4.017 D_ft_adv: 0.583 C_A: 0.076 
+saving the latest model (epoch 91, total_iters 320000)
+------------------------------
+best acc_D_ft_source: 0.9972 best acc_D_ft_target: 0.9254 best acc_fake_A: 0.0510 best acc_fake_B: 0.2388 best acc_real_A: 0.9489 best acc_real_B: 0.0448 best acc_rec_A: 0.2849 best acc_rec_B: 0.0480 
+------------------------------
+saving the model at the end of epoch 91, iters 320320
+End of epoch 91 / 100 	 Time Taken: 35 sec
+2025-04-17 00:40:54.695183
+------------------------------
+best acc_D_ft_source: 0.9972 best acc_D_ft_target: 0.9254 best acc_fake_A: 0.0510 best acc_fake_B: 0.2470 best acc_real_A: 0.9489 best acc_real_B: 0.0448 best acc_rec_A: 0.2849 best acc_rec_B: 0.0480 
+------------------------------
+saving the model at the end of epoch 92, iters 323840
+End of epoch 92 / 100 	 Time Taken: 37 sec
+2025-04-17 00:41:32.622508
+(epoch: 93, iters: 2560, time: 0.002, data: 0.207) [ loss] D_A: 0.004 G_A: 0.980 cycle_A: 0.482 D_B: 0.001 G_B: 0.940 cycle_B: 0.356 sem_B: 0.984 sem_A: 3.673 C_B_task: 3.198 C_B_adv: 1.117 C_B: 4.315 D_ft_adv: 0.628 C_A: 0.206 
+------------------------------
+best acc_D_ft_source: 0.9972 best acc_D_ft_target: 0.9254 best acc_fake_A: 0.0510 best acc_fake_B: 0.2528 best acc_real_A: 0.9489 best acc_real_B: 0.0448 best acc_rec_A: 0.2849 best acc_rec_B: 0.0480 
+------------------------------
+saving the model at the end of epoch 93, iters 327360
+End of epoch 93 / 100 	 Time Taken: 35 sec
+2025-04-17 00:42:08.414928
+------------------------------
+best acc_D_ft_source: 0.9972 best acc_D_ft_target: 0.9254 best acc_fake_A: 0.0510 best acc_fake_B: 0.2667 best acc_real_A: 0.9489 best acc_real_B: 0.0448 best acc_rec_A: 0.2849 best acc_rec_B: 0.0480 
+------------------------------
+saving the model at the end of epoch 94, iters 330880
+End of epoch 94 / 100 	 Time Taken: 35 sec
+2025-04-17 00:42:43.981941
+(epoch: 95, iters: 1920, time: 0.002, data: 0.194) [ loss] D_A: 0.003 G_A: 0.930 cycle_A: 0.466 D_B: 0.001 G_B: 1.009 cycle_B: 0.361 sem_B: 1.551 sem_A: 4.172 C_B_task: 3.253 C_B_adv: 1.081 C_B: 4.334 D_ft_adv: 0.581 C_A: 0.126 
+------------------------------
+best acc_D_ft_source: 0.9972 best acc_D_ft_target: 0.9254 best acc_fake_A: 0.0510 best acc_fake_B: 0.2729 best acc_real_A: 0.9489 best acc_real_B: 0.0448 best acc_rec_A: 0.2849 best acc_rec_B: 0.0480 
+------------------------------
+saving the model at the end of epoch 95, iters 334400
+End of epoch 95 / 100 	 Time Taken: 35 sec
+2025-04-17 00:43:19.122046
+------------------------------
+best acc_D_ft_source: 0.9972 best acc_D_ft_target: 0.9254 best acc_fake_A: 0.0510 best acc_fake_B: 0.2729 best acc_real_A: 0.9489 best acc_real_B: 0.0448 best acc_rec_A: 0.2849 best acc_rec_B: 0.0480 
+------------------------------
+saving the model at the end of epoch 96, iters 337920
+End of epoch 96 / 100 	 Time Taken: 36 sec
+2025-04-17 00:43:56.003488
+(epoch: 97, iters: 1280, time: 0.002, data: 0.620) [ loss] D_A: 0.003 G_A: 0.966 cycle_A: 0.487 D_B: 0.001 G_B: 0.996 cycle_B: 0.368 sem_B: 1.498 sem_A: 3.912 C_B_task: 3.210 C_B_adv: 1.202 C_B: 4.411 D_ft_adv: 0.644 C_A: 0.232 
+------------------------------
+best acc_D_ft_source: 0.9972 best acc_D_ft_target: 0.9254 best acc_fake_A: 0.0510 best acc_fake_B: 0.2729 best acc_real_A: 0.9489 best acc_real_B: 0.0448 best acc_rec_A: 0.2849 best acc_rec_B: 0.0480 
+------------------------------
+saving the model at the end of epoch 97, iters 341440
+End of epoch 97 / 100 	 Time Taken: 36 sec
+2025-04-17 00:44:32.233154
+------------------------------
+best acc_D_ft_source: 0.9972 best acc_D_ft_target: 0.9254 best acc_fake_A: 0.0510 best acc_fake_B: 0.2799 best acc_real_A: 0.9489 best acc_real_B: 0.0448 best acc_rec_A: 0.2849 best acc_rec_B: 0.0480 
+------------------------------
+saving the model at the end of epoch 98, iters 344960
+End of epoch 98 / 100 	 Time Taken: 38 sec
+2025-04-17 00:45:10.321730
+(epoch: 99, iters: 640, time: 0.002, data: 0.187) [ loss] D_A: 0.002 G_A: 0.944 cycle_A: 0.498 D_B: 0.001 G_B: 1.000 cycle_B: 0.357 sem_B: 1.754 sem_A: 3.821 C_B_task: 2.871 C_B_adv: 0.874 C_B: 3.745 D_ft_adv: 0.643 C_A: 0.266 
+------------------------------
+best acc_D_ft_source: 0.9972 best acc_D_ft_target: 0.9254 best acc_fake_A: 0.0510 best acc_fake_B: 0.2799 best acc_real_A: 0.9489 best acc_real_B: 0.0448 best acc_rec_A: 0.2849 best acc_rec_B: 0.0480 
+------------------------------
+saving the model at the end of epoch 99, iters 348480
+End of epoch 99 / 100 	 Time Taken: 37 sec
+2025-04-17 00:45:47.744054
+(epoch: 100, iters: 3520, time: 0.001, data: 0.194) [ loss] D_A: 0.002 G_A: 0.944 cycle_A: 0.496 D_B: 0.001 G_B: 0.989 cycle_B: 0.340 sem_B: 1.111 sem_A: 3.716 C_B_task: 2.999 C_B_adv: 0.770 C_B: 3.768 D_ft_adv: 0.664 C_A: 0.063 
+------------------------------
+best acc_D_ft_source: 0.9972 best acc_D_ft_target: 0.9254 best acc_fake_A: 0.0510 best acc_fake_B: 0.2799 best acc_real_A: 0.9505 best acc_real_B: 0.0448 best acc_rec_A: 0.2849 best acc_rec_B: 0.0480 
+------------------------------
+saving the model at the end of epoch 100, iters 352000
+End of epoch 100 / 100 	 Time Taken: 39 sec

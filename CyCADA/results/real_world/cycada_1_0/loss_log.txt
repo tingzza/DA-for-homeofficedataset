@@ -1,0 +1,301 @@
+================ Training Loss (Thu Apr 17 15:04:58 2025) ================
+2025-04-17 15:04:58.774340
+model: cycada_1_0, total epoch: 100
+------------------------------
+best acc_fake_A: 0.0183 best acc_fake_B: 0.0372 best acc_real_A: 0.0192 best acc_real_B: 0.0183 best acc_rec_A: 0.0123 best acc_rec_B: 0.0309 
+------------------------------
+------------------------------
+best acc_fake_A: 0.0183 best acc_fake_B: 0.0518 best acc_real_A: 0.0281 best acc_real_B: 0.0345 best acc_rec_A: 0.0152 best acc_rec_B: 0.0309 
+------------------------------
+------------------------------
+best acc_fake_A: 0.0197 best acc_fake_B: 0.0520 best acc_real_A: 0.0281 best acc_real_B: 0.0345 best acc_rec_A: 0.0156 best acc_rec_B: 0.0309 
+------------------------------
+------------------------------
+best acc_fake_A: 0.0197 best acc_fake_B: 0.0532 best acc_real_A: 0.0281 best acc_real_B: 0.0345 best acc_rec_A: 0.0156 best acc_rec_B: 0.0314 
+------------------------------
+------------------------------
+best acc_fake_A: 0.0217 best acc_fake_B: 0.0532 best acc_real_A: 0.0281 best acc_real_B: 0.0345 best acc_rec_A: 0.0156 best acc_rec_B: 0.0314 
+------------------------------
+------------------------------
+best acc_fake_A: 0.0217 best acc_fake_B: 0.0532 best acc_real_A: 0.0281 best acc_real_B: 0.0345 best acc_rec_A: 0.0156 best acc_rec_B: 0.0314 
+------------------------------
+------------------------------
+best acc_fake_A: 0.0217 best acc_fake_B: 0.0532 best acc_real_A: 0.0281 best acc_real_B: 0.0345 best acc_rec_A: 0.0156 best acc_rec_B: 0.0314 
+------------------------------
+------------------------------
+best acc_fake_A: 0.0217 best acc_fake_B: 0.0574 best acc_real_A: 0.0281 best acc_real_B: 0.0358 best acc_rec_A: 0.0156 best acc_rec_B: 0.0314 
+------------------------------
+------------------------------
+best acc_fake_A: 0.0217 best acc_fake_B: 0.0667 best acc_real_A: 0.0281 best acc_real_B: 0.0358 best acc_rec_A: 0.0206 best acc_rec_B: 0.0430 
+------------------------------
+------------------------------
+best acc_fake_A: 0.0217 best acc_fake_B: 0.0667 best acc_real_A: 0.0281 best acc_real_B: 0.0358 best acc_rec_A: 0.0206 best acc_rec_B: 0.0430 
+------------------------------
+------------------------------
+best acc_fake_A: 0.0217 best acc_fake_B: 0.0667 best acc_real_A: 0.0281 best acc_real_B: 0.0416 best acc_rec_A: 0.0206 best acc_rec_B: 0.0430 
+------------------------------
+------------------------------
+best acc_fake_A: 0.0217 best acc_fake_B: 0.0667 best acc_real_A: 0.0281 best acc_real_B: 0.0490 best acc_rec_A: 0.0217 best acc_rec_B: 0.0430 
+------------------------------
+------------------------------
+best acc_fake_A: 0.0217 best acc_fake_B: 0.0667 best acc_real_A: 0.0281 best acc_real_B: 0.0490 best acc_rec_A: 0.0217 best acc_rec_B: 0.0430 
+------------------------------
+------------------------------
+best acc_fake_A: 0.0217 best acc_fake_B: 0.0667 best acc_real_A: 0.0281 best acc_real_B: 0.0490 best acc_rec_A: 0.0217 best acc_rec_B: 0.0430 
+------------------------------
+------------------------------
+best acc_fake_A: 0.0223 best acc_fake_B: 0.0667 best acc_real_A: 0.0281 best acc_real_B: 0.0490 best acc_rec_A: 0.0227 best acc_rec_B: 0.0430 
+------------------------------
+------------------------------
+best acc_fake_A: 0.0223 best acc_fake_B: 0.0667 best acc_real_A: 0.0281 best acc_real_B: 0.0490 best acc_rec_A: 0.0227 best acc_rec_B: 0.0430 
+------------------------------
+------------------------------
+best acc_fake_A: 0.0223 best acc_fake_B: 0.0667 best acc_real_A: 0.0281 best acc_real_B: 0.0490 best acc_rec_A: 0.0227 best acc_rec_B: 0.0430 
+------------------------------
+------------------------------
+best acc_fake_A: 0.0223 best acc_fake_B: 0.0667 best acc_real_A: 0.0281 best acc_real_B: 0.0490 best acc_rec_A: 0.0273 best acc_rec_B: 0.0430 
+------------------------------
+------------------------------
+best acc_fake_A: 0.0223 best acc_fake_B: 0.0667 best acc_real_A: 0.0281 best acc_real_B: 0.0490 best acc_rec_A: 0.0273 best acc_rec_B: 0.0430 
+------------------------------
+------------------------------
+best acc_fake_A: 0.0223 best acc_fake_B: 0.0667 best acc_real_A: 0.0281 best acc_real_B: 0.0490 best acc_rec_A: 0.0273 best acc_rec_B: 0.0470 
+------------------------------
+------------------------------
+best acc_fake_A: 0.0223 best acc_fake_B: 0.0667 best acc_real_A: 0.0281 best acc_real_B: 0.0490 best acc_rec_A: 0.0273 best acc_rec_B: 0.0470 
+------------------------------
+------------------------------
+best acc_fake_A: 0.0223 best acc_fake_B: 0.0667 best acc_real_A: 0.0281 best acc_real_B: 0.0490 best acc_rec_A: 0.0273 best acc_rec_B: 0.0470 
+------------------------------
+------------------------------
+best acc_fake_A: 0.0223 best acc_fake_B: 0.0667 best acc_real_A: 0.0281 best acc_real_B: 0.0490 best acc_rec_A: 0.0273 best acc_rec_B: 0.0470 
+------------------------------
+------------------------------
+best acc_fake_A: 0.0223 best acc_fake_B: 0.0667 best acc_real_A: 0.0281 best acc_real_B: 0.0490 best acc_rec_A: 0.0273 best acc_rec_B: 0.0470 
+------------------------------
+------------------------------
+best acc_fake_A: 0.0223 best acc_fake_B: 0.0667 best acc_real_A: 0.0281 best acc_real_B: 0.0490 best acc_rec_A: 0.0273 best acc_rec_B: 0.0470 
+------------------------------
+------------------------------
+best acc_fake_A: 0.0223 best acc_fake_B: 0.0669 best acc_real_A: 0.0281 best acc_real_B: 0.0490 best acc_rec_A: 0.0273 best acc_rec_B: 0.0470 
+------------------------------
+------------------------------
+best acc_fake_A: 0.0223 best acc_fake_B: 0.0669 best acc_real_A: 0.0281 best acc_real_B: 0.0490 best acc_rec_A: 0.0273 best acc_rec_B: 0.0470 
+------------------------------
+------------------------------
+best acc_fake_A: 0.0223 best acc_fake_B: 0.0669 best acc_real_A: 0.0281 best acc_real_B: 0.0490 best acc_rec_A: 0.0273 best acc_rec_B: 0.0470 
+------------------------------
+------------------------------
+best acc_fake_A: 0.0223 best acc_fake_B: 0.0669 best acc_real_A: 0.0281 best acc_real_B: 0.0490 best acc_rec_A: 0.0273 best acc_rec_B: 0.0470 
+------------------------------
+------------------------------
+best acc_fake_A: 0.0223 best acc_fake_B: 0.0675 best acc_real_A: 0.0281 best acc_real_B: 0.0490 best acc_rec_A: 0.0273 best acc_rec_B: 0.0470 
+------------------------------
+------------------------------
+best acc_fake_A: 0.0223 best acc_fake_B: 0.0675 best acc_real_A: 0.0281 best acc_real_B: 0.0490 best acc_rec_A: 0.0273 best acc_rec_B: 0.0470 
+------------------------------
+------------------------------
+best acc_fake_A: 0.0244 best acc_fake_B: 0.0675 best acc_real_A: 0.0281 best acc_real_B: 0.0490 best acc_rec_A: 0.0273 best acc_rec_B: 0.0470 
+------------------------------
+------------------------------
+best acc_fake_A: 0.0244 best acc_fake_B: 0.0675 best acc_real_A: 0.0281 best acc_real_B: 0.0490 best acc_rec_A: 0.0273 best acc_rec_B: 0.0470 
+------------------------------
+------------------------------
+best acc_fake_A: 0.0244 best acc_fake_B: 0.0675 best acc_real_A: 0.0281 best acc_real_B: 0.0503 best acc_rec_A: 0.0273 best acc_rec_B: 0.0522 
+------------------------------
+------------------------------
+best acc_fake_A: 0.0244 best acc_fake_B: 0.0795 best acc_real_A: 0.0281 best acc_real_B: 0.0503 best acc_rec_A: 0.0273 best acc_rec_B: 0.0522 
+------------------------------
+------------------------------
+best acc_fake_A: 0.0244 best acc_fake_B: 0.0795 best acc_real_A: 0.0281 best acc_real_B: 0.0503 best acc_rec_A: 0.0273 best acc_rec_B: 0.0522 
+------------------------------
+------------------------------
+best acc_fake_A: 0.0244 best acc_fake_B: 0.0844 best acc_real_A: 0.0281 best acc_real_B: 0.0611 best acc_rec_A: 0.0273 best acc_rec_B: 0.0522 
+------------------------------
+------------------------------
+best acc_fake_A: 0.0244 best acc_fake_B: 0.0875 best acc_real_A: 0.0281 best acc_real_B: 0.0611 best acc_rec_A: 0.0273 best acc_rec_B: 0.0655 
+------------------------------
+------------------------------
+best acc_fake_A: 0.0244 best acc_fake_B: 0.0875 best acc_real_A: 0.0281 best acc_real_B: 0.0611 best acc_rec_A: 0.0273 best acc_rec_B: 0.0655 
+------------------------------
+------------------------------
+best acc_fake_A: 0.0244 best acc_fake_B: 0.0875 best acc_real_A: 0.0281 best acc_real_B: 0.0611 best acc_rec_A: 0.0273 best acc_rec_B: 0.0655 
+------------------------------
+------------------------------
+best acc_fake_A: 0.0244 best acc_fake_B: 0.0875 best acc_real_A: 0.0281 best acc_real_B: 0.0611 best acc_rec_A: 0.0273 best acc_rec_B: 0.0655 
+------------------------------
+------------------------------
+best acc_fake_A: 0.0244 best acc_fake_B: 0.0875 best acc_real_A: 0.0281 best acc_real_B: 0.0611 best acc_rec_A: 0.0273 best acc_rec_B: 0.0655 
+------------------------------
+------------------------------
+best acc_fake_A: 0.0244 best acc_fake_B: 0.0875 best acc_real_A: 0.0281 best acc_real_B: 0.0611 best acc_rec_A: 0.0273 best acc_rec_B: 0.0655 
+------------------------------
+------------------------------
+best acc_fake_A: 0.0244 best acc_fake_B: 0.0875 best acc_real_A: 0.0281 best acc_real_B: 0.0611 best acc_rec_A: 0.0273 best acc_rec_B: 0.0655 
+------------------------------
+------------------------------
+best acc_fake_A: 0.0244 best acc_fake_B: 0.0875 best acc_real_A: 0.0281 best acc_real_B: 0.0611 best acc_rec_A: 0.0273 best acc_rec_B: 0.0655 
+------------------------------
+------------------------------
+best acc_fake_A: 0.0244 best acc_fake_B: 0.0875 best acc_real_A: 0.0281 best acc_real_B: 0.0611 best acc_rec_A: 0.0273 best acc_rec_B: 0.0655 
+------------------------------
+------------------------------
+best acc_fake_A: 0.0244 best acc_fake_B: 0.0875 best acc_real_A: 0.0281 best acc_real_B: 0.0611 best acc_rec_A: 0.0273 best acc_rec_B: 0.0655 
+------------------------------
+------------------------------
+best acc_fake_A: 0.0244 best acc_fake_B: 0.0875 best acc_real_A: 0.0281 best acc_real_B: 0.0611 best acc_rec_A: 0.0273 best acc_rec_B: 0.0655 
+------------------------------
+------------------------------
+best acc_fake_A: 0.0244 best acc_fake_B: 0.0909 best acc_real_A: 0.0281 best acc_real_B: 0.0611 best acc_rec_A: 0.0273 best acc_rec_B: 0.0655 
+------------------------------
+------------------------------
+best acc_fake_A: 0.0244 best acc_fake_B: 0.0971 best acc_real_A: 0.0281 best acc_real_B: 0.0611 best acc_rec_A: 0.0273 best acc_rec_B: 0.0655 
+------------------------------
+------------------------------
+best acc_fake_A: 0.0244 best acc_fake_B: 0.0987 best acc_real_A: 0.0281 best acc_real_B: 0.0611 best acc_rec_A: 0.0273 best acc_rec_B: 0.0655 
+------------------------------
+------------------------------
+best acc_fake_A: 0.0244 best acc_fake_B: 0.0987 best acc_real_A: 0.0281 best acc_real_B: 0.0611 best acc_rec_A: 0.0273 best acc_rec_B: 0.0655 
+------------------------------
+------------------------------
+best acc_fake_A: 0.0244 best acc_fake_B: 0.0987 best acc_real_A: 0.0281 best acc_real_B: 0.0611 best acc_rec_A: 0.0273 best acc_rec_B: 0.0655 
+------------------------------
+------------------------------
+best acc_fake_A: 0.0244 best acc_fake_B: 0.0987 best acc_real_A: 0.0281 best acc_real_B: 0.0626 best acc_rec_A: 0.0273 best acc_rec_B: 0.0695 
+------------------------------
+------------------------------
+best acc_fake_A: 0.0244 best acc_fake_B: 0.0987 best acc_real_A: 0.0281 best acc_real_B: 0.0626 best acc_rec_A: 0.0273 best acc_rec_B: 0.0695 
+------------------------------
+------------------------------
+best acc_fake_A: 0.0244 best acc_fake_B: 0.0987 best acc_real_A: 0.0281 best acc_real_B: 0.0626 best acc_rec_A: 0.0273 best acc_rec_B: 0.0695 
+------------------------------
+------------------------------
+best acc_fake_A: 0.0244 best acc_fake_B: 0.0987 best acc_real_A: 0.0281 best acc_real_B: 0.0626 best acc_rec_A: 0.0273 best acc_rec_B: 0.0695 
+------------------------------
+------------------------------
+best acc_fake_A: 0.0244 best acc_fake_B: 0.0987 best acc_real_A: 0.0281 best acc_real_B: 0.0626 best acc_rec_A: 0.0273 best acc_rec_B: 0.0695 
+------------------------------
+------------------------------
+best acc_fake_A: 0.0244 best acc_fake_B: 0.0987 best acc_real_A: 0.0281 best acc_real_B: 0.0626 best acc_rec_A: 0.0273 best acc_rec_B: 0.0695 
+------------------------------
+------------------------------
+best acc_fake_A: 0.0244 best acc_fake_B: 0.0987 best acc_real_A: 0.0281 best acc_real_B: 0.0702 best acc_rec_A: 0.0273 best acc_rec_B: 0.0695 
+------------------------------
+------------------------------
+best acc_fake_A: 0.0244 best acc_fake_B: 0.0987 best acc_real_A: 0.0281 best acc_real_B: 0.0852 best acc_rec_A: 0.0273 best acc_rec_B: 0.0695 
+------------------------------
+------------------------------
+best acc_fake_A: 0.0244 best acc_fake_B: 0.0987 best acc_real_A: 0.0281 best acc_real_B: 0.0852 best acc_rec_A: 0.0273 best acc_rec_B: 0.0695 
+------------------------------
+------------------------------
+best acc_fake_A: 0.0244 best acc_fake_B: 0.1032 best acc_real_A: 0.0281 best acc_real_B: 0.0852 best acc_rec_A: 0.0273 best acc_rec_B: 0.0695 
+------------------------------
+------------------------------
+best acc_fake_A: 0.0244 best acc_fake_B: 0.1032 best acc_real_A: 0.0281 best acc_real_B: 0.0852 best acc_rec_A: 0.0273 best acc_rec_B: 0.0695 
+------------------------------
+------------------------------
+best acc_fake_A: 0.0244 best acc_fake_B: 0.1032 best acc_real_A: 0.0281 best acc_real_B: 0.0852 best acc_rec_A: 0.0273 best acc_rec_B: 0.0695 
+------------------------------
+------------------------------
+best acc_fake_A: 0.0244 best acc_fake_B: 0.1032 best acc_real_A: 0.0281 best acc_real_B: 0.0852 best acc_rec_A: 0.0273 best acc_rec_B: 0.0695 
+------------------------------
+------------------------------
+best acc_fake_A: 0.0244 best acc_fake_B: 0.1032 best acc_real_A: 0.0286 best acc_real_B: 0.0852 best acc_rec_A: 0.0273 best acc_rec_B: 0.0695 
+------------------------------
+------------------------------
+best acc_fake_A: 0.0244 best acc_fake_B: 0.1032 best acc_real_A: 0.0286 best acc_real_B: 0.0852 best acc_rec_A: 0.0273 best acc_rec_B: 0.0695 
+------------------------------
+------------------------------
+best acc_fake_A: 0.0244 best acc_fake_B: 0.1032 best acc_real_A: 0.0286 best acc_real_B: 0.0852 best acc_rec_A: 0.0273 best acc_rec_B: 0.0695 
+------------------------------
+------------------------------
+best acc_fake_A: 0.0244 best acc_fake_B: 0.1032 best acc_real_A: 0.0286 best acc_real_B: 0.0852 best acc_rec_A: 0.0273 best acc_rec_B: 0.0695 
+------------------------------
+------------------------------
+best acc_fake_A: 0.0244 best acc_fake_B: 0.1032 best acc_real_A: 0.0286 best acc_real_B: 0.0852 best acc_rec_A: 0.0273 best acc_rec_B: 0.0695 
+------------------------------
+------------------------------
+best acc_fake_A: 0.0244 best acc_fake_B: 0.1045 best acc_real_A: 0.0309 best acc_real_B: 0.0852 best acc_rec_A: 0.0273 best acc_rec_B: 0.0695 
+------------------------------
+------------------------------
+best acc_fake_A: 0.0244 best acc_fake_B: 0.1045 best acc_real_A: 0.0309 best acc_real_B: 0.0852 best acc_rec_A: 0.0273 best acc_rec_B: 0.0707 
+------------------------------
+------------------------------
+best acc_fake_A: 0.0244 best acc_fake_B: 0.1093 best acc_real_A: 0.0309 best acc_real_B: 0.0852 best acc_rec_A: 0.0273 best acc_rec_B: 0.0707 
+------------------------------
+------------------------------
+best acc_fake_A: 0.0244 best acc_fake_B: 0.1116 best acc_real_A: 0.0309 best acc_real_B: 0.0852 best acc_rec_A: 0.0273 best acc_rec_B: 0.0707 
+------------------------------
+------------------------------
+best acc_fake_A: 0.0244 best acc_fake_B: 0.1128 best acc_real_A: 0.0309 best acc_real_B: 0.0852 best acc_rec_A: 0.0273 best acc_rec_B: 0.0707 
+------------------------------
+------------------------------
+best acc_fake_A: 0.0244 best acc_fake_B: 0.1128 best acc_real_A: 0.0309 best acc_real_B: 0.0852 best acc_rec_A: 0.0295 best acc_rec_B: 0.0707 
+------------------------------
+------------------------------
+best acc_fake_A: 0.0244 best acc_fake_B: 0.1128 best acc_real_A: 0.0309 best acc_real_B: 0.0852 best acc_rec_A: 0.0295 best acc_rec_B: 0.0707 
+------------------------------
+------------------------------
+best acc_fake_A: 0.0244 best acc_fake_B: 0.1134 best acc_real_A: 0.0309 best acc_real_B: 0.0852 best acc_rec_A: 0.0295 best acc_rec_B: 0.0707 
+------------------------------
+------------------------------
+best acc_fake_A: 0.0244 best acc_fake_B: 0.1134 best acc_real_A: 0.0309 best acc_real_B: 0.0852 best acc_rec_A: 0.0295 best acc_rec_B: 0.0707 
+------------------------------
+------------------------------
+best acc_fake_A: 0.0244 best acc_fake_B: 0.1188 best acc_real_A: 0.0309 best acc_real_B: 0.0852 best acc_rec_A: 0.0295 best acc_rec_B: 0.0707 
+------------------------------
+------------------------------
+best acc_fake_A: 0.0244 best acc_fake_B: 0.1188 best acc_real_A: 0.0309 best acc_real_B: 0.0852 best acc_rec_A: 0.0295 best acc_rec_B: 0.0707 
+------------------------------
+------------------------------
+best acc_fake_A: 0.0244 best acc_fake_B: 0.1188 best acc_real_A: 0.0309 best acc_real_B: 0.0852 best acc_rec_A: 0.0295 best acc_rec_B: 0.0707 
+------------------------------
+------------------------------
+best acc_fake_A: 0.0244 best acc_fake_B: 0.1188 best acc_real_A: 0.0309 best acc_real_B: 0.0852 best acc_rec_A: 0.0295 best acc_rec_B: 0.0707 
+------------------------------
+------------------------------
+best acc_fake_A: 0.0244 best acc_fake_B: 0.1188 best acc_real_A: 0.0309 best acc_real_B: 0.0852 best acc_rec_A: 0.0295 best acc_rec_B: 0.0707 
+------------------------------
+------------------------------
+best acc_fake_A: 0.0244 best acc_fake_B: 0.1188 best acc_real_A: 0.0309 best acc_real_B: 0.0852 best acc_rec_A: 0.0295 best acc_rec_B: 0.0707 
+------------------------------
+------------------------------
+best acc_fake_A: 0.0244 best acc_fake_B: 0.1234 best acc_real_A: 0.0309 best acc_real_B: 0.0852 best acc_rec_A: 0.0295 best acc_rec_B: 0.0707 
+------------------------------
+------------------------------
+best acc_fake_A: 0.0244 best acc_fake_B: 0.1234 best acc_real_A: 0.0309 best acc_real_B: 0.0852 best acc_rec_A: 0.0295 best acc_rec_B: 0.0707 
+------------------------------
+------------------------------
+best acc_fake_A: 0.0244 best acc_fake_B: 0.1234 best acc_real_A: 0.0309 best acc_real_B: 0.0852 best acc_rec_A: 0.0295 best acc_rec_B: 0.0707 
+------------------------------
+------------------------------
+best acc_fake_A: 0.0244 best acc_fake_B: 0.1234 best acc_real_A: 0.0309 best acc_real_B: 0.0852 best acc_rec_A: 0.0295 best acc_rec_B: 0.0707 
+------------------------------
+------------------------------
+best acc_fake_A: 0.0244 best acc_fake_B: 0.1234 best acc_real_A: 0.0309 best acc_real_B: 0.0852 best acc_rec_A: 0.0295 best acc_rec_B: 0.0707 
+------------------------------
+------------------------------
+best acc_fake_A: 0.0244 best acc_fake_B: 0.1234 best acc_real_A: 0.0309 best acc_real_B: 0.0852 best acc_rec_A: 0.0295 best acc_rec_B: 0.0707 
+------------------------------
+------------------------------
+best acc_fake_A: 0.0244 best acc_fake_B: 0.1234 best acc_real_A: 0.0309 best acc_real_B: 0.0852 best acc_rec_A: 0.0295 best acc_rec_B: 0.0707 
+------------------------------
+------------------------------
+best acc_fake_A: 0.0244 best acc_fake_B: 0.1234 best acc_real_A: 0.0309 best acc_real_B: 0.0852 best acc_rec_A: 0.0295 best acc_rec_B: 0.0707 
+------------------------------
+------------------------------
+best acc_fake_A: 0.0244 best acc_fake_B: 0.1234 best acc_real_A: 0.0309 best acc_real_B: 0.0852 best acc_rec_A: 0.0295 best acc_rec_B: 0.0707 
+------------------------------
+------------------------------
+best acc_fake_A: 0.0244 best acc_fake_B: 0.1234 best acc_real_A: 0.0309 best acc_real_B: 0.0852 best acc_rec_A: 0.0295 best acc_rec_B: 0.0707 
+------------------------------
+------------------------------
+best acc_fake_A: 0.0244 best acc_fake_B: 0.1234 best acc_real_A: 0.0309 best acc_real_B: 0.0852 best acc_rec_A: 0.0295 best acc_rec_B: 0.0707 
+------------------------------
+------------------------------
+best acc_fake_A: 0.0246 best acc_fake_B: 0.1234 best acc_real_A: 0.0309 best acc_real_B: 0.0852 best acc_rec_A: 0.0295 best acc_rec_B: 0.0707 
+------------------------------
+------------------------------
+best acc_fake_A: 0.0246 best acc_fake_B: 0.1234 best acc_real_A: 0.0309 best acc_real_B: 0.0852 best acc_rec_A: 0.0295 best acc_rec_B: 0.0707 
+------------------------------
+best result cycada_1_0: {'acc_fake_A': np.float64(0.024553571428571428), 'acc_fake_B': np.float64(0.12336309523809523), 'acc_real_A': np.float64(0.030867346938775513), 'acc_real_B': np.float64(0.08517219387755103), 'acc_rec_A': np.float64(0.029506802721088434), 'acc_rec_B': np.float64(0.07066326530612245)}
